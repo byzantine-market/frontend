@@ -11,7 +11,7 @@ export default function Header() {
 					<p className="font-bold text-xl">Byzantine</p>
 				</div>
 				<div className="flex items-center gap-3">
-					<a className="text-sm text-white" href="https://github.com" target="_blank">
+					<a className="text-sm text-white" href="https://github.com/byzantine-market/frontend" target="_blank">
 						<img className="h-4 w-4" src="/github.svg" />
 					</a>
 					<a className="text-sm text-white" href="https://x.com/byzantinexbt" target="_blank">
