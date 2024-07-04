@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 	title: 'Byzantine Market',
 	description: 'Bitcoin native prediction market',
 	openGraph: {
-		title: 'Byzantine Market',
+		title: 'Byzantine |',
 		description: 'Byzantine Market',
 		url: 'https://byzantine.market',
 		images: [
