@@ -7,10 +7,10 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-	title: 'Byzantine Market',
-	description: 'Bitcoin native prediction market',
+	title: 'Byzantine | Bitcoin Native Prediction Market',
+	description: '',
 	openGraph: {
-		title: 'Byzantine |',
+		title: 'Byzantine | Bitcoin Native Prediction Market',
 		description: 'Byzantine Market',
 		url: 'https://byzantine.market',
 		images: [
