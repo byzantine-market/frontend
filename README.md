@@ -7,11 +7,11 @@
 **Run yours.org locally:**
 1) Download yours.org zipfile from github or clone.
     ```bash
-    git clone https://github.com/yours-org/frontend.git
+    git clone https://github.com/byzantine-market/frontend.git
     ```
 2) Open filepath in shell or cmd:
    ```bash
-   cd /frontend-master
+   cd /frontend
    ```
 4) Run the development server:
    ```bash
@@ -34,11 +34,6 @@
 ## Component Library 
 
 This application uses a component library called [shacdn](https://ui.shadcn.com/). Components created using shacdn are saved in `src/components/ui`. To install new components please refer to their [documentation](https://ui.shadcn.com/docs)
-
-## Design
-
-Design mock ups are saved in the [Yours Figma](https://www.figma.com/community/file/1337515124574956282/yours-design-system).
-
 
 ### License
 
