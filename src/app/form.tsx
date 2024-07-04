@@ -38,9 +38,12 @@ export default function Form() {
 					title: 'Subscribed!',
 					description: 'You joined the waitlist',
 					action: (
-						<a href={`https://x.com/intent/post?text=${intent}`} target="_blank">
-							<ToastAction altText="Try again">Share it</ToastAction>
-						</a>
+						<ToastAction
+							onClick={() => window.open(`https://x.com/intent/post?text=${intent}`, '_blank')}
+							altText="Try again"
+						>
+							Share it
+						</ToastAction>
 					)
 				})
 				setEmail('')
