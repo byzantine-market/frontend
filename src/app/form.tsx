@@ -29,7 +29,7 @@ export default function Form() {
 			}
 
 			const intent = encodeURIComponent(
-				`Just signed up for @byzantinexbt! Bitcoin native prediction markets.\n\nCheck it out here 👇\n\nbyzantine.market`
+				`Just signed up for @byzantinexbt! The Bitcoin native prediction market.\n\nCheck it out here 👇\n\nhttps://byzantine.market`
 			)
 
 			try {
