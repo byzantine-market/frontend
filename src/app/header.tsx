@@ -17,7 +17,7 @@ export default function Header() {
 					<a className="text-sm text-white" href="https://x.com/byzantinexbt" target="_blank">
 						<img className="h-4 w-4" src="/twitter.svg" />
 					</a>
-					<a className="text-sm text-white" href="https://t.me/+ifidN8vkqxRjYjIx" target="_blank">
+					<a className="text-sm text-white" href="https://t.me/+dWVvW8_V0ukyMTFh" target="_blank">
 						<img className="h-4 w-4" src="/telegram.svg" />
 					</a>
 				</div>
